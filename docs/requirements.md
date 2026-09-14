@@ -21,7 +21,8 @@ notandin valdi.
 ## Non-Functional requirements
 NFR-01: Performance - hratt en ekki of hratt.
 NFR-02: Security - Kerfið geymir gmail, username og kannski password. Það mun hafa two-way Verifycation/Authentication.
-NFR-03: Reliability - Ef Kerfið vantar einhvað þá mun það sýna að það vanti data eða image til notandans, en það mun láta vita að það vanti hlutinn til þá sem gerði kerfið og segja þeim að setja in imagið eða data
+NFR-03: Reliability - Ef Kerfið vantar einhvað þá mun það sýna að það vanti data eða image til notandans, en það mun láta vita 
+að það vanti hlutinn til þá sem gerði kerfið og segja þeim að setja in imagið eða data
 
 User Stories: 
 Retro game collector vil checklista til að checka við leikina sem hann á.
