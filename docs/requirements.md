@@ -14,7 +14,7 @@ bara með því muna hvernig tegund af leik það var.
 
 ## Functional requirements
 FR-01: Notandi getur valið um eitt til þrjá hluti sem tengist leiknum
-FR-02: Niðurstöður sýna bara það sem notandinn valdi
+FR-02: Notendurnar geta sett leiki í checklista til að geta fundið það aftur.
 FR-03: Ef engar niðurstöður fundust mun birtast texti með ekkert fanst, en það gæti birst leikir sem hafa eitt af því sem
 notandin valdi.
 
