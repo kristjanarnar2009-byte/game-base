@@ -17,6 +17,8 @@ FR-01: Notandi getur valið um eitt til þrjá hluti sem tengist leiknum
 FR-02: Notendurnar geta sett leiki í checklista til að geta fundið það aftur.
 FR-03: Ef engar niðurstöður fundust mun birtast texti með ekkert fanst, en það gæti birst leikir sem hafa eitt af því sem
 notandin valdi.
+FR-04: Þegar notendur smella á leik eða leikina þá verður sýnt upplisýngar um leikina eins go hvar þær eru
+
 
 ## Non-Functional requirements
 NFR-01: Performance - hratt en ekki of hratt.
