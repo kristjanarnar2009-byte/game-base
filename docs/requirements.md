@@ -14,17 +14,23 @@ bara með því muna hvernig tegund af leik það var.
 
 ## Functional requirements
 FR-01: Notandi getur valið um eitt til þrjá hluti sem tengist leiknum
+
 FR-02: Notendurnar geta sett leiki í checklista til að geta fundið það aftur.
+
 FR-03: Ef engar niðurstöður fundust mun birtast texti með ekkert fanst, en það gæti birst leikir sem hafa eitt af því sem
 notandin valdi.
+
 FR-04: Þegar notendur smella á leik eða leikina þá verður sýnt upplisýnga tab um leikina eins og hvar þær eru
 
 
 ## Non-Functional requirements
 NFR-01: Performance - Kerfið fer 30 frames á sekúndur, og fer nákvæmnt yfir upplýsingar sem maður er að rayna að finna eða gera.
+
 NFR-02: Security - Kerfið geymir gmail, username og kannski password. Það mun hafa two-way Verifycation/Authentication.
+
 NFR-03: Reliability - Ef Kerfið vantar einhvað þá mun það sýna að það vanti data eða image til notandans, en það mun láta vita 
 að það vanti hlutinn til þá sem gerði kerfið og segja þeim að setja in imagið eða data
+
 
 User Stories: 
 Retro game collector vil checklista til að checka við leikina sem hann á.
