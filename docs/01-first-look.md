@@ -1,7 +1,7 @@
 # Fyrsta skoðun á gagnasafninu
 
 ## Hópur
-Nöfn: Kristján Arnar, Haraldur og Róbert
+Nöfn: Kristján Arnar, Haraldur, Róbert og Stefán
 
 ## Gagnaskrár sem við skoðuðum
 skoðaði data_dictionary
