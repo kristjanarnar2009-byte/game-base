@@ -31,6 +31,8 @@ NFR-02: Security - Kerfið geymir gmail, username og kannski password. Það mun
 NFR-03: Reliability - Ef Kerfið vantar einhvað þá mun það sýna að það vanti data eða image til notandans, en það mun láta vita 
 að það vanti hlutinn til þá sem gerði kerfið og segja þeim að setja in imagið eða data
 
+NFR-04: Information tab description - Information tab verður að innihalda description sem er texti sem lýsir leiknum.
+
 
 User Stories: 
 Retro game collector vil checklista til að checka við leikina sem hann á.
