@@ -24,7 +24,7 @@ FR-04: Þegar notendur smella á leik eða leikina þá verður sýnt upplisýng
 
 
 ## Non-Functional requirements
-NFR-01: Performance - Kerfið fer 30 frames á sekúndur, og fer nákvæmnt yfir upplýsingar sem maður er að rayna að finna eða gera.
+NFR-01: Performance - Kerfið fer nákvæmnt yfir upplýsingar sem maður er að reyna að finna eða gera.
 
 NFR-02: Security - Kerfið geymir gmail, username og kannski password. Það mun hafa two-way Verifycation/Authentication.
 
